@@ -19,7 +19,7 @@ compiled using  using Jupyter Notebook 5.4.0 (64-bit) or higher as well.
 Not that: the code will take hours to build the model and predict with a decent 
 GPU.
 
-## Running Instruction  
+## Running Instructions  
 1. Run all the cells in ‘reviews_analysis.ipynb’ sequentially since input 
 of next cell depends on the output of previous cell. 
 2. Please download the required libraries before compiling the code 
