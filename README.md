@@ -2,13 +2,12 @@
 The purpose of the challenge is to classify text or reviews according to the sentiment polarities of opinions i.e. strongly  negative (1), weakly negative (2), neutral (3), weakly positive  (4) and strongly positive (5).
 
 
-The directory contents of this distribution should as follows: 
+The directory contents of this distribution should as follows: <br>
 ./ 
 README - This documentation 
 reviews_analysis.ipynb - File containing the source code 
  This file runs the ULMFit model on the input data and predicts the test 
-data producing the output file ‘predict_label.csv’ 
-
+data producing the output file ‘predict_label.csv’ <br>
 This is a python-based implementation. The environment used for building it 
 was Python 3.6.4 and Google Colab (with GPU).  The notebook can be 
 compiled using  using Jupyter Notebook 5.4.0 (64-bit) or higher as well.  
