@@ -9,8 +9,6 @@ reviews_analysis.ipynb - File containing the source code
  This file runs the ULMFit model on the input data and predicts the test 
 data producing the output file ‘predict_label.csv’ 
 
- 
-
 This is a python-based implementation. The environment used for building it 
 was Python 3.6.4 and Google Colab (with GPU).  The notebook can be 
 compiled using  using Jupyter Notebook 5.4.0 (64-bit) or higher as well.  
